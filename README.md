@@ -1,7 +1,7 @@
 # cento
 
 <p align="center">
-<img src="https://github.com/WithPrecedent/wonka/blob/main/docs/images/logo.jfif?raw=true" alt="logo" style="width:250px;"/>
+<img src="https://github.com/WithPrecedent/cento/blob/main/docs/images/logo.jfif?raw=true" alt="logo" style="width:200px;"/>
 </p>
 
 | | |
